@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "Samanta Leiva"
-  orgLocal = ""
+  orgLocal = " "
   description = "Dra. en Psicología, especialista en Neuropsicología y en Estadística aplicada"
   favicon = "/img/mateicon.ico"
   logo = "/img/matepng.png"
@@ -85,35 +85,39 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
+   [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/SLeiva_" #estaba hashtag/apéro
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://github.com/SamiLeiva" # estaba apreshill/apero
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "http://orcid.org/0000-0003-3196-1675" # estaba 0000-0002-8082-1890
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
-
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=JQSnJS4AAAAJ&hl=es" # agregue este bloque
+  #[[params.social]]
+   #   icon      = "facebook-square" # icon name without the 'fa-'
+    #  icon_pack = "fab"
+     # url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+ # [[params.social]]
+  #    icon      = "instagram" # icon name without the 'fa-'
+   #   icon_pack = "fab"
+    #  url       = "https://www.instagram.com/explore/tags/apero/"
+  #[[params.social]]
+   #   icon      = "impactstory" # icon name without the 'fa-'
+    #  icon_pack = "ai"
+     # url       = "https://impactstory.org/u/0000-0002-8082-1890"
+       #[[params.social]]
+   #   icon      = "rss" # icon name without the 'fa-'
+    #  icon_pack = "fas"
+     # url       = "/blog/index.xml"
+     
 [taxonomies]
   category = "categories"
   series = "series"
@@ -123,7 +127,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "Sobre mí" # defecto era "About"
-    title = "About Blogophonic"
+    title = "Algo sobre mí"
     url = "/about/"
     weight = 1
   [[menu.header]]
