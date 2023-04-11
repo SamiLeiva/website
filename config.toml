@@ -1,9 +1,9 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
-copyright = "" # set to override the auto generated copyright using org info and now year
+title = "Samanta Leiva"
+author = "Samanta Leiva"
+copyright = "© Samanta Leiva (2023)" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
@@ -28,12 +28,12 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  orgName = "Samanta Leiva"
+  orgLocal = ""
+  description = "Dra. en Psicología, especialista en Neuropsicología y en Estadística aplicada"
+  favicon = "/img/mateicon.ico"
+  logo = "/img/matepng.png"
+  mainSections = ["blog", "project", "talk"] # Son las que aparecen resaltadas en About page
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/papillons.jpg" #estaba papillons.jpg
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "apreshill"
   
@@ -122,7 +122,7 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
+    name = "Sobre mí" # defecto era "About"
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
