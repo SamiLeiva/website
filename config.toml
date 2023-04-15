@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Samanta Leiva"
   orgLocal = " "
   description = "Dra. en Psicología, especialista en Neuropsicología y en Estadística aplicada"
-  favicon = "/img/mateicon.ico"
-  logo = "/img/matepng.png"
+  favicon = "/img/mate_ico.ico"
+  logo = "/img/mate_png.png"
   mainSections = ["blog", "project", "talk"] # Son las que aparecen resaltadas en About page
   navallcaps = true
   # show/hide social icons in site header & footer
