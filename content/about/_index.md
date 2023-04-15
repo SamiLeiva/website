@@ -2,10 +2,10 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  Un poco sobre mí.
 show_header: true
-sidebar_left: false
-title: About
+sidebar_left: true
+title: Sobre mí
 ---
 
 ** index doesn't contain a body, just front matter above.
