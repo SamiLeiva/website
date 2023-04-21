@@ -8,10 +8,10 @@ excerpt: En este trabajo analizamos la habilidad para reconocer emociones básic
 layout: single
 # `tags` are like keywords
 tags:
-- Neuropsicología
 - Traumatismo craneoencefálico
 - Reconocimiento de emociones
 - Expresiones corporales
+- Estudio de caso
 
 links:
   - icon: file-pdf
