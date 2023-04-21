@@ -23,7 +23,7 @@ links:
   - icon: file-pdf
     icon_pack: fa
     name: PDF
-    url: static/pdf/Leiva 2016 - Expresiones corporales en TEC.pdf
+    url: pdf/Leiva 2016 Expresiones corporales en TEC.pdf
   - icon: doi
     icon_pack: ai
     name: Journal
