@@ -18,7 +18,7 @@ cascade:
 sidebar:
   type: project
   author: Samanta Leiva
-  description: "En esta sección podrás encontrar mis artículos académicos publicados. Varios de mis trabajos se realizaron en el contexto de mi beca doctoral UBACyT y, luego, bajo mi beca postdoctoral del CONICET. Otros trabajos surgieron como colaboraciones con compañeras de la vida académica ;)"
+  description: "En esta sección podrás encontrar mis artículos académicos publicados.  \nVarios de mis trabajos se realizaron en el contexto de mi beca doctoral UBACyT y, luego, bajo mi beca postdoctoral del CONICET. Otros trabajos surgieron como colaboraciones con compañeras de la vida académica ;)"
   show_sidebar_adunit: false
   text_link_label: "Perfil de google académico"
   text_link_url: "https://scholar.google.com/citations?user=JQSnJS4AAAAJ&hl=es"

@@ -2,7 +2,7 @@
 action_label: Sobre mí &rarr;
 action_link: /about
 action_type: text
-description: Soy una psicóloga argentina especializada en neuropsicología y en estadística aplicada para las ciencias de la salud, formada en la Universidad de Buenos Aires. En esta web encontrarás los proyectos en los que trabajo junto con blogs, ideas y reflexiones sobre estadística y neuropsicología.
+description: Soy una psicóloga argentina especializada en neuropsicología y en estadística aplicada para las ciencias de la salud, formada en la Universidad de Buenos Aires. En esta web encontrarás los proyectos en los que trabajo junto con blogs, ideas y reflexiones sobre estadística, neuropsicología y demás.
 image_left: false
 images:
 - img/sami_in.png
