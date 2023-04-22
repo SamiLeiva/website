@@ -1,30 +1,29 @@
 ---
-title: 'Dificultades en el reconocimiento de emociones y su impacto en la calidad de vida en pacientes con accidente cerebro vascular: una revisión sistematizada'
-author: Kirsch, M., Leiva, S., Caamaño, P., & Ferreres, A. (2018)
-date: '2018-01-01'
+title: 'Test de Denominación de Boston: rendimiento de jóvenes adultos de la Ciudad Autónoma de Buenos Aires'
+author: Fay, M., A., Leiva, S., & Margulis, L. (2018)
+date: '2018-02-01'
 categories:
 draft: false
-excerpt: El  objetivo de este trabajo fue analizar cuál es el impacto que tienen las alteraciones en la capacidad para reconocer expresiones emocionales sobre la calidad de vida de personas con accidente cerebro vascular (ACV). Se realizó una revisión sistemática de literatura disponle en español e inglés.
+excerpt: En este trabajo presentamos datos de rendimiento de jóvenes adultos de entre 20 y 39 años de edad de la Ciudad Autónoma de Buenos Aires en el Test de Denomincación de Boston. Analizamos las propiedades psicométricas de la herramienta para esta población y elaboramos un puntaje de corte sugerido para su uso en contexto de evaluación cognitiva.
 layout: single
 # `tags` are like keywords
 tags:
-- Revisión sistemática
-- ACV
+- Evaluación neurocognitiva
 
 links:
   - icon: file-pdf
     icon_pack: fa
     name: PDF
-    url: pdf/Kirsch 2018 Emociones y calidad de vida en ACV.pdf
+    url: pdf/Fay 2018 Test de Boston.pdf
   - icon: doi
     icon_pack: ai
     name: Journal
-    url: https://www.revneuropsi.com.ar/numeros-anteriores
+    url: http://www.psi.uba.ar/investigaciones.php?var=investigaciones/revistas/anuario/anteriores/anuario25/trabajo.php&id=1054
 ---
 ## Resumen
 
-*Introducción:* El objetivo de este trabajo fue analizar cuál es el impacto que tienen las alteraciones en la capacidad para reconocer emociones básicas sobre la calidad de vida de pacientes con accidente cerebro vascular (ACV). *Metodología:* Se realizó una revisión sistematizada de la literatura disponible hasta noviembre de 2017. Se identificaron artículos originales a través de las bases PubMed, SciELO y PsycINFO, que hayan evaluado el reconocimiento emocional a partir de distintos tipos de estímulos (rostro, prosodia o multimodales) en pacientes con ACV de al menos 3 meses de evolución y que, además, hayan analizado el impacto sobre la calidad de vida de los mismos. *Resultados:* La búsqueda arrojó un total de 268 artículos de los cuales sólo dos incluyeron la evaluación conjunta de ambos aspectos: reconocimiento emocional y calidad de vida. En esos estudios los pacientes con ACV obtuvieron puntuaciones significativamente inferiores al grupo control en todas las pruebas emocionales, independientemente del estímulo utilizado o la localización de la lesión cerebral. Además, se observó que estas alteraciones tuvieron un impacto negativo sobre la calidad de vida de los pacientes, caracterizadas por una reducción en la participación social. *Conclusiones:* A pesar de que las fallas en la capacidad de reconocer emociones están ampliamente descriptas en pacientes con ACV, se identificaron sólo dos estudios que indagaron el impacto de estas sobre la calidad de vida. Esto evidencia la necesidad de profundizar las investigaciones al respecto para conocer con mayor precisión cuánto impactan los déficits de procesamiento emocional sobre la vida cotidiana de los pacientes.
+*Objetivo:* Analizar las propiedades psicométricas del Test de Denominación de Boston para jóvenes adultos de Buenos Aires. *Método:* Se evaluó a 40 participantes entre 20 y 39 años de edad con la versión local del test. Se calculó la dificultad y poder discriminativo de los ítems, y se los comparó con los datos de la versión argentina del año 1997. Se analizó la consistencia interna de la prueba y, finalmente, se calcularon los datos normativos preliminares para este grupo etario. *Resultados:* Se observaron diferencias respecto de los datos disponibles del año 1997 con láminas con mayor y menor porcentaje de acierto. Se obtuvo valores de alfa de Cronbach = .551 y el puntaje de corte se estableció en 47 puntos. *Conclusiones:* Las diferencias halladas entre los sujetos evaluados y los datos argentinos previos remarcan la importancia de generar actualizaciones de las propiedades psicométricas de los test en distintas poblaciones.
 
 ### Cita (formato APA)
 
-Kirsch, M., Leiva, S., Caamaño, P., & Ferreres, A. (2018). Dificultades en el reconocimiento de emociones y su impacto en la calidad de vida en pacientes con accidente cerebro vascular: una revisión sistematizada. *Revista Argentina de Neuropsicología*, *33*, 17-33.
+Fay, M., A., Leiva, S., & Margulis, L. (2018). Test de Denominación de Boston: rendimiento de jóvenes adultos de la Ciudad Autónoma de Buenos Aires. *Anuario de investigaciones*, *25*, 343-351.
