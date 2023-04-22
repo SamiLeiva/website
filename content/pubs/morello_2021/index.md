@@ -14,7 +14,7 @@ tags:
 links:
   - icon: file-pdf
     icon_pack: fa
-    name: PDF
+    name: PDF (inglés)
     url: pdf/Morello 2021 Alexia y agrafia en APP.pdf
   - icon: doi
     icon_pack: ai
