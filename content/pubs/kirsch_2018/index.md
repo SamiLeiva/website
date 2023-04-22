@@ -8,7 +8,7 @@ excerpt: El  objetivo de este trabajo fue analizar cuál es el impacto que tiene
 layout: single
 # `tags` are like keywords
 tags:
-- Revisión sistemática
+- Revisión
 - ACV
 
 links:
