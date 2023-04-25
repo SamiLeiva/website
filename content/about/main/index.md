@@ -10,7 +10,8 @@ intro: |
   * Evaluación neuropsicológica y psicometría
   * Estadística aplicada a la neuropsicología
   * Creación de materiales y guías en español sobre neuropsicología y estadística aplicada
-  * Acceso abierto del conocimiento científico y uso de R/RStudio
+  * Acceso abierto del conocimiento científico
+  * Uso de R/RStudio para la psicología
   
   Si te interesa mi colaboración para algún proyecto de ciencia abierta sobre neuropsicología o estadística aplicada en esa disciplina, contactame y hablamos ;) 
 show_outro: false

@@ -17,4 +17,4 @@ title: Unidad de Neuropsicología | HIGA Eva Perón
 Es un centro de asistencia para personas adultas con condiciones neurológicas y forma parte de los servicios del [Hospital Interzonal General de Agudos *Eva Perón*](https://www.ms.gba.gov.ar/sitios/hevaperon/), ubicado en San Martín, Provincia de Buenos Aires (Argentina). Como todos los hospitales públicos de Argentina, el Hospital Eva Perón ofrece asistencia pública y gratuita a toda la población que lo necesite. 
 
 #### Mi rol en la Unidad
-Formo parte de la Unidad de Neuropsicología desde el año 2011. Comencé realizando una pasantía clínica y luego desarrollé mis proyectos de investigación de doctorado y postdoctorado allí. 
+Formo parte de la Unidad de Neuropsicología desde el año 2011 y continúo en la actualidad. Comencé realizando una pasantía clínica y luego desarrollé mis proyectos de investigación de doctorado y postdoctorado allí. 
