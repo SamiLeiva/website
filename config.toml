@@ -149,16 +149,16 @@ enableEmoji = true
     title = "Proyectos"
     url = "/project/" #project
     weight = 5
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 6
+  #[[menu.header]]
+   # name = "Talks"
+    #title = "Talks"
+    #url = "/talk/"
+    #weight = 6
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/pdf/0_cv_leiva.pdf"
-    weight = 7
+    weight = 6
   #[[menu.header]]
    # name = "A collection"
   #  title = "A collection"
