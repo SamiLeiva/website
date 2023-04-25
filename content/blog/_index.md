@@ -18,7 +18,7 @@ show_post_thumbnail: true
 sidebar:
   author: Samanta Leiva
   description: "En estes espacio escribo blogs, ideas, y cualquier otra cuestión que me interese compartir o dejar por escrito para no olvidar ;)  \n  
-  \nMis temáticas de interés abarcan pero no se restringen a: neuropsicología, estadística aplicada a las ciencias de la salud humana, psicometría,  ciencia neuropsicológica latinoamericana y uso de R/Rstudio en psicología."
+  \nMis temáticas de interés abarcan pero no se restringen a: neuropsicología, estadística aplicada a las ciencias de la salud humana, psicometría, y uso de R/Rstudio en psicología."
   show_sidebar_adunit: true
   text_link_label: #Subscribe via RSS
   text_link_url:  #/index.xml
