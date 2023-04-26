@@ -2,7 +2,7 @@
 author: Samanta Leiva
 categories:
 - Cognición social
-date: "2023-02-01"
+date: "2023-04-01"
 draft: false
 excerpt: Proyectos de investigación sobre alteraciones de la cognición social y el comportamiento social en personas adultas con condiciones neurológicas.
 layout: single

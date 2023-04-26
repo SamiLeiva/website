@@ -2,9 +2,9 @@
 author: Samanta Leiva
 categories:
 - Neuropsicología clínica
-date: "2023-01-01"
+date: "2023-01-10"
 draft: false
-excerpt: Equipo clínico interdisciplinario de asistencia a personas adultas con condiciones neurológicas del hospital público HIGA Eva Perón de San Martín, Buenos Aires, Argentina.
+excerpt: Formo parte del equipo clínico interdisciplinario de asistencia a personas adultas con condiciones neurológicas del hospital público HIGA Eva Perón de San Martín, Buenos Aires, Argentina.
 layout: single
 subtitle: Hospital público de la provincia de Buenos Aires, Argentina.
 tags:
