@@ -8,7 +8,6 @@ excerpt: Equipo clínico interdisciplinario de asistencia a personas adultas con
 layout: single
 subtitle: Hospital público de la provincia de Buenos Aires, Argentina.
 tags:
-- hugo-site
 title: Unidad de Neuropsicología | HIGA Eva Perón
 ---
 ---
