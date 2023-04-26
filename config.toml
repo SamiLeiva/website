@@ -140,25 +140,25 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Publicaciones"
+    name = "Artículos"
     title = "Pubs"
     url = "/pubs/" #project
     weight = 4
   [[menu.header]]
-    name = "Proyectos"
-    title = "Proyectos"
+    name = "Investigación"
+    title = "Investigación"
     url = "/project/" #project
     weight = 5
-  #[[menu.header]]
-   # name = "Talks"
-    #title = "Talks"
-    #url = "/talk/"
-    #weight = 6
+  [[menu.header]]
+    name = "Grupos"
+    title = "Grupos"
+    url = "/grupos/"
+    weight = 6
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/pdf/0_cv_leiva.pdf"
-    weight = 6
+    weight = 7
   #[[menu.header]]
    # name = "A collection"
   #  title = "A collection"
