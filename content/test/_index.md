@@ -7,7 +7,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View all projects
-    text_link_url: /project/
+    text_link_url: /test/
 description: Estas son las pruebas de evaluación cognitiva que fueron desarrolladas o adaptadas por mí, junto con otras herramientas en las que participé como colaboradora.
 layout: list-grid
 show_author_byline: true

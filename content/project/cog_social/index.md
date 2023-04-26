@@ -4,11 +4,11 @@ categories:
 - Cognición social
 date: "2023-02-01"
 draft: false
-excerpt: Proyecto de investigación de la Lic. Paula Caamaño sobre alteraciones de la empatía y su relación con los cambios conductuales de personas con traumatismo creneoencefálico.
+excerpt: Proyectos de investigación sobre alteraciones de la cognición social y el comportamiento social en personas adultas con condiciones neurológicas.
 layout: single
-subtitle: Proyecto doctoral de la Lic. Paula Caamaño
+subtitle: Proyectos de investigación neuropsicológica
 tags:
-title: Empatía y cambios del comportamiento en TEC
+title: Congnición y conducta social en neuropsicología
 ---
 ---
 

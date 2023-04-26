@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Proyectos de investigación de los que participo o participé  (SECCIÓN EN CONSTRUCCIÓN)
+description: Acá podrás encontrar información sobre alguno de los proyectos académicos y clínicos de los que formo parte.
 layout: list-grid
 show_author_byline: true
 show_button_links: false
@@ -20,8 +20,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: "Proyectos de investigación"
-title: Proyectos de investigación
+  title: "Proyectos de los que participo"
+title: Proyectos de los que participo
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

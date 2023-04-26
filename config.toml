@@ -145,14 +145,14 @@ enableEmoji = true
     url = "/pubs/" #project
     weight = 4
   [[menu.header]]
-    name = "Investigación"
-    title = "Investigación"
-    url = "/project/" #project
+    name = "Tests"
+    title = "Pruebas cognitivas"
+    url = "/test/"
     weight = 5
   [[menu.header]]
-    name = "Grupos"
-    title = "Grupos"
-    url = "/grupos/"
+    name = "Proyectos"
+    title = "Proyectos"
+    url = "/project/" #project
     weight = 6
   [[menu.header]]
     name = "CV"
