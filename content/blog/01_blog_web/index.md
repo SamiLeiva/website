@@ -3,15 +3,9 @@ author: Samanta Leiva
 categories:
 date: "2023-05-02"
 draft: false
-<<<<<<< HEAD
-excerpt: Un breve relato sobre cómo hice mi propio sitio web usando RStudio y su hermosa comunidad ;)
-layout: single
-subtitle: Un breve relato
-=======
 excerpt: Un breve relato sobre cómo hice mi propio sitio web usando RStudio y otras cositas ;)
 layout: single
-subtitle: Un breve realto
->>>>>>> a96e036213cee344a64636608aefece9e2883a60
+subtitle: Un breve relato
 title: ¿Cómo hice mi propio sitio web con RStudio?
 ---
 
