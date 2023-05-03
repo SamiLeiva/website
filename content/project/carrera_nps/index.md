@@ -17,7 +17,8 @@ La Carrera Interdisciplinaria de Especialización en Neuropsicología Clínica e
 
 Desde el año 2023 la modalidad de cursada es a distancia para todos los cursos obligatorios y optativos, excepto para las prácticas profesionales que son con modalidad presencial.
 
-**Sitio web**: http://pgneuropsicologia.com.ar/
+**Sitio web**: http://pgneuropsicologia.com.ar/  
+**Instagram**: [neuropsicologia.uba](https://www.instagram.com/neuropsicologia.uba/)
 
 #### Autoridades
 * Director: Dr. Aldo Ferreres.
