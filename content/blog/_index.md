@@ -19,10 +19,12 @@ sidebar:
   author: Samanta Leiva
   description: "En estes espacio escribo blogs, ideas, y cualquier otra cuestión que me interese compartir o dejar por escrito para no olvidar ;)  \n  
   \nMis temáticas de interés abarcan pero no se restringen a: neuropsicología, estadística aplicada a las ciencias de la salud humana, psicometría, y uso de R/Rstudio en psicología."
-  show_sidebar_adunit: true
+  show_sidebar_adunit: false
   text_link_label: #Subscribe via RSS
   text_link_url:  #/index.xml
   title: Blog, ideas y demás...
+  text_link_label: "Licencia"
+  text_link_url: "/licencia/"
 thumbnail_left: true
 title: Blog, ideas y demás...
 ---
