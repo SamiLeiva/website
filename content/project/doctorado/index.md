@@ -11,7 +11,7 @@ tags:
 title: Tesis doctoral
 ---
 ### ¿Dónde hice mi doctorado?
-Me doctoré en marzo del 2020 (¡que época especial!) en la [Facultad de Psicología de la Universidad de Buenos Aires](http://www.psi.uba.ar/) (Argentina) con la tesis titulada **Reconocimiento de expresiones emocionales corporales en pacientes con lesiones del hemisferio derecho.** Mi director de tesis fue el Dr. Aldo Ferreres y realicé mis actividades de investigación con una beca doctoral UBACyT.
+Me doctoré en marzo del 2020 (¡que época especial!) en la [Facultad de Psicología de la Universidad de Buenos Aires](http://www.psi.uba.ar/) (Argentina) con la tesis titulada **Reconocimiento de expresiones emocionales corporales en pacientes con lesiones del hemisferio derecho.** Mi director de tesis fue el Dr. Aldo Ferreres y realicé mis actividades de investigación con una beca doctoral UBACyT. El jurado que me evaluó estuvo compuesto por la Dra. Débora Burin, el Dr. Ricardo Allegri, y el Dr. José Alberto Chiapella.  
 
 ### ¿Qué trabajo hice para la tesis?
 Mi trabajo doctoral se enmarcó en el área de la *Neuropsicología Clínica*, una rama de la práctica profesional de la salud humana que se ocupa del estudio de las *alteraciones cognitivas* que se producen como consecuencia de una *disfunción cerebral*.
