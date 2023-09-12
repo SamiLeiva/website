@@ -6,14 +6,12 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  * Desarrollo de la neuropsicología latinoamericana
-  * Evaluación neuropsicológica y psicometría
-  * Estadística aplicada a la neuropsicología
-  * Creación de materiales y guías en español sobre neuropsicología y estadística aplicada
-  * Acceso abierto del conocimiento científico
-  * Uso de R/RStudio para la psicología
+  * Neuropsicología en ámbitos de salud pública
+  * Evaluación neuropsicológica de personas adultas
+  * Estadística aplicada a la evaluación neuropsicológica
+  * Uso de R/RStudio para el análisis de datos en neuropsicología
   
-  Si te interesa mi colaboración para algún proyecto de ciencia abierta sobre neuropsicología o estadística aplicada en esa disciplina, contactame y hablamos ;) 
+  Si te interesa mi colaboración para algún proyecto de salud pública y neuropsicología o estadística aplicada en esa disciplina, contactame y hablamos ;) 
 show_outro: false
 outro: |
 ---
