@@ -31,4 +31,4 @@ links:
 
 ### Cita (formato APA)
 
-Caamaño, P., & Leiva, S. (2024). Conducta prosocial en adultos: relación con la empatía y variables sociodemográficas. *Psicología, Conocimiento y Sociedad*, *14*(1), 64-87. https://revista.psico.edu.uy/index.php/revpsicologia/article/view/941
+Caamaño, P., & Leiva, S. (2024). Conducta prosocial en adultos: relación con la empatía y variables sociodemográficas. *Psicología, Conocimiento y Sociedad*, *14*(1), 64-87. http://dx.doi.org/10.26864/PCS.v14.n1.3
