@@ -6,12 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  * Neuropsicología en ámbitos de salud pública
   * Evaluación neuropsicológica de personas adultas
-  * Estadística aplicada a la evaluación neuropsicológica
+  * Psicometría y estadística aplicada a la evaluación neuropsicológica
   * Uso de R/RStudio para el análisis de datos en neuropsicología
   
-  Si te interesa mi colaboración para algún proyecto de salud pública y neuropsicología o estadística aplicada en esa disciplina, contactame y hablamos ;) 
+  Si te interesa mi colaboración para algún proyecto sobre  neuropsicología o estadística aplicada en esa disciplina, contactame y hablamos ;) 
 show_outro: false
 outro: |
 ---
