@@ -3,7 +3,7 @@ theme = "hugo-apero"
 languageCode = "en"
 title = "Samanta Leiva"
 author = "Samanta Leiva"
-copyright = "© Samanta Leiva (2024)" # set to override the auto generated copyright using org info and now year
+copyright = "© Samanta Leiva (2025)" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
@@ -149,16 +149,16 @@ enableEmoji = true
     title = "Proyectos"
     url = "/project/" #project
     weight = 2
-  [[menu.header]]
-    name = "Tests"
-    title = "Pruebas cognitivas"
-    url = "/test/"
-    weight = 5
+#  [[menu.header]]
+#    name = "Tests"
+#    title = "Pruebas cognitivas"
+#    url = "/test/"
+#    weight = 5
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/" #"/pdf/0_cv_leiva.pdf"
-    weight = 6
+    weight = 5
   #[[menu.header]]
    # name = "A collection"
   #  title = "A collection"

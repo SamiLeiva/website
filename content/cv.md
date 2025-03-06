@@ -15,11 +15,9 @@ title: Currículum profesional
 
 * Profesora del Doctorado en Ciencias Humanas y de la Maestría en Neuropsicología Infantil de la UNSAM.  
 
-* Coordinadora de la Carrera Interdisciplinaria de Especialización en Neuropsicología Clínica de la Universidad de Buenos Aires. 
+* Profesora y coordinadora de la Carrera Interdisciplinaria de Especialización en Neuropsicología Clínica de la Universidad de Buenos Aires. 
 
-* Profesora de grado y posgrado de la Facultad de Psicología de la Universidad de Buenos Aires. 
-
-* Neuropsicóloga del Hospital Interzonal General de Agudos Eva Perón de San Martín, Provincia de Buenos Aires. 
+* Neuropsicóloga clínica en el Hospital Interzonal General de Agudos Eva Perón de San Martín, Provincia de Buenos Aires. 
 
 * Miembro de la comisión directiva de la Sociedad de Neuropsicología de Argentina (SONEPSA).
 

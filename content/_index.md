@@ -2,7 +2,7 @@
 action_label: Sobre mí &rarr;
 action_link: /about
 action_type: text
-description: Soy una psicóloga argentina especializada en **neuropsicología** y en **estadística aplicada** para las ciencias de la salud, formada en la Universidad de Buenos Aires. En esta web encontrarás los proyectos en los que trabajo junto con ideas y materiales sobre neuropsicología, estadística y demás.
+description: Psicóloga argentina especializada en **neuropsicología** y en **estadística aplicada a las ciencias de la salud** (UBA). Investigadora del Laboratorio de Investigación en Ciencias Humanas de la Universidad Nacional de San Martín (LICH-UNSAM). Neuropsicóloga Clínica en el Hospital Interzonal General de Agudos Eva Perón.
 image_left: false
 images:
 - img/sami_in.png
