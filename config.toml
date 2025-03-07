@@ -94,21 +94,21 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/SamiLeiva" # estaba apreshill/apero
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0003-3196-1675" # estaba 0000-0002-8082-1890
-  [[params.social]]
       icon      = "osf" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://osf.io/kz4mx/"
   [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://orcid.org/0000-0003-3196-1675" # estaba 0000-0002-8082-1890
+  [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=JQSnJS4AAAAJ&hl=es" # agregue este bloque
-  #[[params.social]]
-   #   icon      = "facebook-square" # icon name without the 'fa-'
-    #  icon_pack = "fab"
-     # url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+  [[params.social]]
+      icon      = "researchgate" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.researchgate.net/profile/Samanta-Leiva?ev=hdr_xprf"
   [[params.social]]
      icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
