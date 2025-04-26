@@ -18,7 +18,7 @@ show_post_thumbnail: true
 sidebar:
   author: Samanta Leiva
   description: "En este espacio escribo blogs, ideas, y cualquier otra cuestión que me interese compartir o dejar por escrito para no olvidar.  \n  
-  \nMis temáticas de interés abarcan pero no se restringen a: neuropsicología, estadística aplicada a la evaluación neuropsicológica, y uso de R para analizar datos en neuropsicología."
+  \nMis temáticas de interés abarcan pero no se restringen a: neuropsicología, estadística aplicada y uso de R para la neuropsicología."
   show_sidebar_adunit: false
   text_link_label: #Subscribe via RSS
   text_link_url:  #/index.xml

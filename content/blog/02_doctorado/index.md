@@ -1,22 +1,31 @@
 ---
 author: Samanta Leiva
 categories:
-- Doctorado
-date: "2023-02-01"
+date: "2025-04-06"
 draft: false
-excerpt: Este es un resumen de mi proyecto doctoral que culminó con la aprobación de la tesis el año 2020 en la Facultad de Psicología de la Universidad de Buenos Aires.
+excerpt: Resumen de mi proyecto doctoral que culminó con la aprobación de la tesis el año 2020 en la Facultad de Psicología de la Universidad de Buenos Aires.
 layout: single
-subtitle: Breve resumen de mi trabajo de doctorado
-tags:
-title: Tesis doctoral
+subtitle: Algunas notas sobre mi experiencia durante mi doctorado.
+title: Mi tesis doctoral en la UBA
 ---
-### ¿Dónde hice mi doctorado?
+
+## ¿Dónde hice mi doctorado?
 Me doctoré en marzo del 2020 (¡que época especial!) en la [Facultad de Psicología de la Universidad de Buenos Aires](http://www.psi.uba.ar/) (Argentina) con la tesis titulada **Reconocimiento de expresiones emocionales corporales en pacientes con lesiones del hemisferio derecho.** Mi director de tesis fue el Dr. Aldo Ferreres y realicé mis actividades de investigación con una beca doctoral UBACyT. El jurado que me evaluó estuvo compuesto por la Dra. Débora Burin, el Dr. Ricardo Allegri, y el Dr. José Alberto Chiapella.  
 
-### ¿Qué trabajo hice para la tesis?
+## ¿Qué trabajo hice para la tesis?
 Mi trabajo doctoral se enmarcó en el área de la *Neuropsicología Clínica*, una rama de la práctica profesional de la salud humana que se ocupa del estudio de las *alteraciones cognitivas* que se producen como consecuencia de una *disfunción cerebral*.
 
 En mi estudio, analicé las alteraciones del procesamiento de gestos emocionales en personas adultas con lesiones cerebrales adquiridas del **hemisferio derecho**. Particularmente, apliqué un protocolo de evaluación para caracterizar la habilidad de los pacientes para reconocer **expresiones emocionales corporales** e identificar si conservaban la capacidad para interpretar emociones básicas (ej. miedo) y complejas (ej. vergüenza) a partir de los gestos corporales exhibidos por otras personas.  
+
+---
+<center>
+<figure>
+    <img src="refyc_blog.png" width=430 height=250>
+    <figcaption>Captura de pantalla de los videos utilizados para evaluar el reconocimiento emocional.</figcaption>
+</figure>
+</center>
+
+---
 
 Además, analicé si la habilidad para reconocer expresiones emocionales **corporales** podría considerarse un proceso cognitivo *diferente* a la habilidad utilizada para reconocer expresiones emocionales **faciales**. Para ello, observamos los patrones de disociaciones clásicas y fuertes que presentaban los pacientes entre los diferentes tipos de estímulos usados en la evaluación: *cuerpo* vs *rostro*. 
 
@@ -44,6 +53,4 @@ Yo terminé entregando mi tesis apurada porque necesitaba terminar para postular
 
 ##### Nota final: ¿Dónde leer la tesis completa?
 Si te levantaste con tiempo de vida de sobra y te agarra un profundo deseo de leer la tesis (¿?), podés acceder al texto completo en el siguiente link: [pdf de la tesis](/pdf/1_Tesis_Leiva.pdf).
-
-
 
