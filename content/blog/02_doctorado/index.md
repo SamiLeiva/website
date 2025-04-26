@@ -20,8 +20,8 @@ En mi estudio, analicé las alteraciones del procesamiento de gestos emocionales
 ---
 <center>
 <figure>
-    <img src="refyc_blog.png" width=430 height=250>
-    <figcaption>Captura de pantalla de los videos utilizados para evaluar el reconocimiento emocional.</figcaption>
+    <img src="refyc_blog.png" width=50%>
+    <figcaption>Capturas de pantalla de los videos utilizados para evaluar a los participantes de la investigación.</figcaption>
 </figure>
 </center>
 
