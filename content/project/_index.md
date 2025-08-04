@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Acá podrás encontrar información sobre alguno de los proyectos académicos y clínicos de los que formo parte.
+description: 
 layout: list-grid
 show_author_byline: true
 show_button_links: false

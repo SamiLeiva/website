@@ -13,8 +13,6 @@ title: Currículum profesional
 
 * Investigadora del Laboratorio de Investigación en Ciencias Humanas de la Escuela de Humanidades, Universidad Nacional de San Martín (LICH-UNSAM). 
 
-* Profesora del Doctorado en Ciencias Humanas y de la Maestría en Neuropsicología Infantil de la UNSAM.  
-
 * Profesora y coordinadora de la Carrera Interdisciplinaria de Especialización en Neuropsicología Clínica de la Universidad de Buenos Aires. 
 
 * Neuropsicóloga clínica en el Hospital Interzonal General de Agudos Eva Perón de San Martín, Provincia de Buenos Aires. 

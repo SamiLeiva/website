@@ -9,9 +9,9 @@ headline: |
 <!-- this is a subheadline -->
 Soy Samanta Leiva, Doctora y Licenciada en Psicología por la [Universidad de Buenos Aires](https://uba.ar/) (UBA). 
 
-Actualmente, me desempeño como **investigadora** en el **Laboratorio de Investigación en Ciencias Humanas (LICH) de la Escuela de Humanidades** de la [Universidad Nacional de San Martín (UNSAM)](https://www.unsam.edu.ar/). Estoy a cargo del **Equipo de Investigación en Neuropsicología Aplicada** y del dictado de cursos para el Doctorado en Ciencias Humanas y para la Maestría en Neuropsicología Infantil de esa misma casa de estudios. **Mis líneas de investigación** se centran en el área de la evaluación neuropsicológica, con un énfasis en la mejora de las propiedades psicométricas de los instrumentos disponibles para nuestra región, así como en el estudio de alteraciones cognitivas y comportamentales de personas adultas con lesiones cerebrales adquiridas o con condiciones del neurodesarrollo.  
+Actualmente, me desempeño como **investigadora** en el **Laboratorio de Investigación en Ciencias Humanas (LICH) de la Escuela de Humanidades** de la [Universidad Nacional de San Martín (UNSAM)](https://www.unsam.edu.ar/). Estoy a cargo del **Equipo de Investigación en Neuropsicología Aplicada**. Mis **líneas de investigación** se centran en el área de la evaluación neuropsicológica, con un énfasis en el estudio de las propiedades psicométricas de los instrumentos disponibles para nuestra región, y la aplicación de métodos estadísticos para la estimación de las alteraciones neurocognitivas en casos clínicos.   
 
-Además, soy **profesora y coordinadora** de la **Carrera Interdisciplinaria de Especialización en Neuropsicología Clínica** de la [Facultad de Psicología de la Universidad de Buenos Aires](http://www.psi.uba.ar/).
+Además, soy **profesora y coordinadora** de la [Carrera Interdisciplinaria de Especialización en Neuropsicología Clínica](https://pgneuropsicologia.com.ar/) de la Facultad de Psicología de la Universidad de Buenos Aires.
 
 En el ámbito clínico, me desempeño como **neuropsicóloga** en el [Hospital Interzonal General de Agudos Eva Perón](https://www.ms.gba.gov.ar/sitios/hospitalevaperon/) de San Martín, Buenos Aires. Allí, formo parte del equipo de asistencia de la **Unidad de Neuropsicología**.
 
