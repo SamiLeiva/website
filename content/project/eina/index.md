@@ -15,7 +15,7 @@ title: Equipo de Investigación en Neuropsicología Aplicada | UNSAM
 
 Este equipo de trabajo se propone mejorar la disponibilidad de instrumentos de evaluación neuropsicológica al aplicar avances psicométricos y estadísticos al servicio de la neuropsicología. Principalmente, se orienta al **estudio de la calidad psicométrica de los instrumentos y procedimientos de evaluación neuropsicológica**, y al estudio de los **modelos estadísticos** que se utilizan para comparar el rendimiento de un paciente contra los datos normativos de las pruebas de evaluación.
 
-## Líneas de investigación: evaluación neuropsicológica
+## Líneas de investigación
 
 ![](eina_objs.png)
 

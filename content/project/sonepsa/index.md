@@ -2,7 +2,7 @@
 author: Samanta Leiva
 categories:
 - Comunidad
-date: "2023-04-01"
+date: "2023-05-01"
 draft: false
 excerpt: Miembro de la comisión directiva de la SONEPSA, una sociedad científico-profesional destinada al desarrollo de la Neuropsicología en Argentina.
 layout: single
