@@ -8,7 +8,7 @@ excerpt: Me desempeño como coordinadora de la Carrera Interdisciplinaria de Esp
 layout: single
 subtitle: Carrera Interdisciplinaria de Especialización en Neuropsicología Clínica de la Universidad de Buenos Aires.
 tags:
-title: Carrera de Especialización en Neuropsicología
+title: Carrera de Especialización en Neuropsicología | UBA
 ---
 ---
 

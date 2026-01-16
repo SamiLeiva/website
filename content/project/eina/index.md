@@ -4,9 +4,9 @@ categories:
 - Investigación
 date: "2025-01-01"
 draft: false
-excerpt: Investigadora a cargo del Equipo de Investigacíon en Neuropsicología Aplicada radicado en LICH-UNSAM.
+excerpt: Investigadora a cargo del Equipo de Investigacíon en Neuropsicología Aplicada radicado en EH-UNSAM.
 layout: single
-subtitle: Grupo de investigación radicado en el Laboratorio de Investigación en Ciencias Humanas de la Universidad Nacional de San Martín (LICH-UNSAM).
+subtitle: Grupo de investigación radicado en la Escuela de Humanidades de la Universidad Nacional de San Martín (EH-UNSAM).
 tags:
 title: Equipo de Investigación en Neuropsicología Aplicada | UNSAM
 ---
@@ -23,19 +23,19 @@ Este equipo de trabajo se propone mejorar la disponibilidad de instrumentos de e
 
 -   **Datos normativos de pruebas neuropsicológicas:** Análisis de métodos estadísticos para el desarrollo de baremos y para la comparación del rendimiento de un caso contra un grupo de referencia. Creación y actualización de datos normativos de pruebas neuropsicológicas para Argentina.
 
--   **Neuropsicología ecológica:** Estudio de la validez ecológica de los instrumentos de evaluación neuropsicológica; relación entre la presencia de alteraciones neuropsicológicas y variables funcionales: queja cognitiva, desempeño académico, actividades de la vida diaria, integración a la comunidad, participación social, entre otras.
+-   **Estadísticos para caso único:** Estudio de los métodos estadísticos utilizados para estimar alteraciones cognitivas a partir de la comparación cuantitativa de rendimiento de un paciente contra un grupo de referencia: métodos tradicionales, prueba *t* modificada, métodos basados en modelos de regresión. 
 
 ## Transferencia
 
-Los resultados del equipo de trabajo tienen **impacto directo sobre la clínica neuropsicológica** al generar: **A)** herramientas más precisas para la estimación de funciones cognitivas y/o detección de alteraciones patológicas de la cognición; **B)** datos normativos con modelos estadísticos más precisos; **C)** herramientas con buena capacidad predictiva del impacto de las alteraciones neurocognitivas en la vida cotidiana.
+Los resultados del equipo de trabajo tienen **impacto directo sobre la clínica neuropsicológica** al generar: **A)** herramientas más precisas para la estimación de funciones cognitivas y/o detección de alteraciones patológicas de la cognición; **B)** datos normativos con modelos estadísticos más precisos; **C)** mejorar la estimación de la rareza de los rendimientos cuantitativos en las pruebas en casos específicos.
 
-Se ofrecen charlas y cursos de formación para equipos de neuropsicólogos clínicos que deseen debatir avances psicométricos y estadísticos aplicados a la evaluación.
+**Contactanos:** Este equipo ofrece charlas y cursos de formación para equipos de neuropsicólogos clínicos que deseen debatir avances psicométricos y estadísticos aplicados a la evaluación.
 
 ## Integrantes
 
 **Directora**: Dra. Samanta Leiva.
 
-**Pasantes**: Lic. Carla Barbagallo, Lic. Marta Silva, Lic. Ornella Blengino, Lic. Carla Meyer, Lic. Nadia Dowzuk, Lic. Patricia Peña Rodríguez.
+**Pasantes**: Lic. Carla Barbagallo, Lic. Marta Silva, Lic. Ornella Blengino, Lic. Carla Meyer, Lic. Patricia Peña Rodríguez.
 
 **Colaboradoras**: Integrantes de la Unidad de Neuropsicología del HIGA Eva Perón de San Martín Dra. Andrea Micciulli, Lic. Laura Margulis, Lic. María Marta Sanguinetti.
 
