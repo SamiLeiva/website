@@ -5,7 +5,7 @@ action_type: text
 description: Psicóloga argentina especializada en **neuropsicología** y en **estadística aplicada a las ciencias de la salud** (UBA). Investigadora de la Escuela de Humanidades de la Universidad Nacional de San Martín (EH-UNSAM). Neuropsicóloga Clínica en el Hospital Interzonal General de Agudos Eva Perón.
 image_left: false
 images:
-- img/sami_in.png
+- img/sam_clase.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Doctora y licenciada en psicología
