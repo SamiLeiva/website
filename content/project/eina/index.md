@@ -6,41 +6,36 @@ date: "2025-01-01"
 draft: false
 excerpt: Investigadora a cargo del Equipo de Investigacíon en Neuropsicología Aplicada radicado en EH-UNSAM.
 layout: single
-subtitle: Grupo de investigación radicado en la Escuela de Humanidades de la Universidad Nacional de San Martín (EH-UNSAM).
+subtitle: Grupo de investigación de la Escuela de Humanidades de la Universidad Nacional de San Martín (EH-UNSAM).
 tags:
 title: Equipo de Investigación en Neuropsicología Aplicada | UNSAM
 ---
 
 ## Presentación
 
-Este equipo de trabajo se propone mejorar la disponibilidad de instrumentos de evaluación neuropsicológica al aplicar avances psicométricos y estadísticos al servicio de la neuropsicología. Principalmente, se orienta al **estudio de la calidad psicométrica de los instrumentos y procedimientos de evaluación neuropsicológica**, y al estudio de los **modelos estadísticos** que se utilizan para comparar el rendimiento de un paciente contra los datos normativos de las pruebas de evaluación.
+Este equipo de trabajo se enfoca en el estudio de diversos **Trastornos del neurodesarrollo (TND) en personas adultas**. Estudiamos las particularidades de los procesos diagnósticos de adultos no diagnosticados en la infancia, los cambios fenotípicos que atraviesan los pacientes con TND, las características de procesamiento cognitivo y su relación con la conducta, y el impacto funcional asociado.
+
+Nuestras investigaciones se centran en pacientes adultos con:
+* Trastorno del Espectro Autista (TEA)
+* Trastorno por Déficit de Atención/Hiperactividad (TDAH)
+* Dificultades Específicas del Aprendizaje (DEA)  
+
+Realizamos nuestro trabajo en conjunto con la [Unidad de Neuropsicología del HIGA Eva Perón](/project/unp/)
 
 ## Líneas de investigación
 
-![](eina_objs.png)
-
--   **Estandarización de procesos de evaluación y diagnóstico neuropsicológico**: Incluye el desarrollo, adaptación y/o estandarización de instrumentos de evaluación neuropsicológica de screening cognitivo y específicos para funciones. Estudio de las propiedades psicométricas de los instrumentos.
-
--   **Datos normativos de pruebas neuropsicológicas:** Análisis de métodos estadísticos para el desarrollo de baremos y para la comparación del rendimiento de un caso contra un grupo de referencia. Creación y actualización de datos normativos de pruebas neuropsicológicas para Argentina.
-
--   **Estadísticos para caso único:** Estudio de los métodos estadísticos utilizados para estimar alteraciones cognitivas a partir de la comparación cuantitativa de rendimiento de un paciente contra un grupo de referencia: métodos tradicionales, prueba *t* modificada, métodos basados en modelos de regresión. 
-
-## Transferencia
-
-Los resultados del equipo de trabajo tienen **impacto directo sobre la clínica neuropsicológica** al generar: **A)** herramientas más precisas para la estimación de funciones cognitivas y/o detección de alteraciones patológicas de la cognición; **B)** datos normativos con modelos estadísticos más precisos; **C)** mejorar la estimación de la rareza de los rendimientos cuantitativos en las pruebas en casos específicos.
-
-**Contactanos:** Este equipo ofrece charlas y cursos de formación para equipos de neuropsicólogos clínicos que deseen debatir avances psicométricos y estadísticos aplicados a la evaluación.
+![](eina_objs_2.png)
 
 ## Integrantes
 
 **Directora**: Dra. Samanta Leiva.
 
-**Pasantes**: Lic. Carla Barbagallo, Lic. Marta Silva, Lic. Ornella Blengino, Lic. Carla Meyer, Lic. Patricia Peña Rodríguez.
+**Pasantes**: Carla Barbagallo (Lic. en Psicopedagogía), Giselle Insfran (Lic. en Psicología), Belén Reniero Paretto (estudiante avanzada de Psicología).
 
 **Colaboradoras**: Integrantes de la Unidad de Neuropsicología del HIGA Eva Perón de San Martín Dra. Andrea Micciulli, Lic. Laura Margulis, Lic. María Marta Sanguinetti.
 
 **Supervisor externo**: Dr. Aldo Ferreres.
 
-## **Contacto**
+## Contacto
 
 Si te interesa integrar el equipo o proponer alguna colaboración, escribinos a **sleiva\@unsam.edu.ar**
