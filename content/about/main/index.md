@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  * Evaluación neuropsicológica para personas adultas
+  * Trastornos del neurodesarrollo en pacientes adultos
   * Psicometría y estadística aplicada a la evaluación neuropsicológica
   * Uso de R/RStudio para el análisis de datos en neuropsicología
   
