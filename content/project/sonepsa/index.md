@@ -20,7 +20,7 @@ La Sociedad de Neuropsicología de Argentina, SONEPSA, fue fundada en 1987 con e
 Se compone de miembros provenientes de diversas disciplinas de todo el país.
 Cada año, realiza distintas actividades científicas como cursos, talleres, seminario, jornadas y otros espacios de encuentro que contribuyen al debate y actualización constante del campo neuropsicológico.
 
-**Sitio web:** <https://www.sonepsa.com.ar/>
+**Sitio web:** <https://www.sonepsa.com.ar/> (2026: EN REPARACIÓN)
 
 ### Congreso Argentino de Neuropsicología
 
@@ -43,7 +43,21 @@ Presidenta para le mandato 2026-2027.
 
 ## Novedades
 
-### 2026
+### Octubre 2026
+#### Encuesta nacional sobre la Neuropsicología en instituciones públicas de Argentina
+
+El grupo de trabajo de SONEPSA *Neuropsicología en Hospitales Públicos de Argentina* ha lanzado una encuesta para relevar información sobre las prácticas neuropsicológicas que se brindan en las instituciones públicas del país.
+
+Si trabaja en una institución pública y brinda asistencia neuropsicológica, le pedimos que responda a esta encuesta que no le llevará más de 10 minutos: https://forms.gle/QXQcKDGQMU37MprN6
+La información recabada será utilizada para crear un **mapa nacional** de asistencia neuropsicológica en instituciones públicas de Argentina y será el primer relevamiento nacional de la práctica en este ámbito.
+
+<figure>
+  <a href="https://forms.gle/QXQcKDGQMU37MprN6">
+    <img src="encuesta.png" style="width: 50%;">
+  </a>
+</figure>
+
+### Marzo 2026
 
 Este año iniciamos con una nueva propuesta para socios y socias: **los grupos de trabajo (GT)**.
 
@@ -51,7 +65,5 @@ Los GT son espacios de intercambio, discusión y trabajo para colegas con intere
 Estos intercambios pueden dar lugar a la profundización o actualización de algún área, generar espacios comunes de entrenamiento o investigación, promover el trabajo conjunto de grupos diferentes, facilitar colaboraciones entre colegas y generar publicaciones académicas (resultados de investigaciones clínicas, revisiones, guías, artículos de opinión, etc).
 
 <figure> <img src="gt.png"> </figure>
-
-Más información: <https://www.sonepsa.com.ar/grupos-trabajo>
 
 ------------------------------------------------------------------------
