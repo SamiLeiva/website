@@ -38,4 +38,4 @@ El equipo de la Unidad está formado por profesionales de las áreas de Neurolog
 ### Contacto
 
 **Dirección:** Av. 101 Dr. Ricardo Balbín 3200, San Martín (CP 1650), Buenos Aires, Argentina. [Link a Google Maps](https://www.google.com/maps/place/Hospital+Interzonal+General+de+Agudos+%22Eva+Per%C3%B3n%22+(ex+Castex)/@-34.571897,-58.554557,16z/data=!4m14!1m7!3m6!1s0x95bcb761e54e8f3f:0x14ceb39f7f497c7f!2sHospital+Interzonal+General+de+Agudos+%22Eva+Per%C3%B3n%22+(ex+Castex)!8m2!3d-34.5718974!4d-58.5545567!16s%2Fg%2F1q628q1yq!3m5!1s0x95bcb761e54e8f3f:0x14ceb39f7f497c7f!8m2!3d-34.5718974!4d-58.5545567!16s%2Fg%2F1q628q1yq?hl=es&entry=ttu)  
-**Whatsapp (solo mensajes):** +54 11 6482 7748 (respuestas de lunes a viernes de 8 a 13 hs)
+**Whatsapp (solo mensajes):** +54 11 7008 4802 (respuestas de lunes a viernes de 8 a 13 hs)
