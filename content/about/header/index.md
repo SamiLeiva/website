@@ -20,4 +20,4 @@ Desde el inicio de mi carrera académica, me especialicé en el estudio de las a
 
 Además, como parte de mi formación profesional, realicé la [Especialización en Estadística para Ciencias de la Salud](https://www.ic.fcen.uba.ar/ceecs/) en la Facultad de Ciencias Exactas y Naturales de la UBA. ¡Fue una formación muy interesante que amplió enormemente mis intereses!
   
-Mi doble formación como investigadora y  neuropsicóloga clínica me permite integrar equipos interdisciplinarios con interés en avances científicos aplicados.
+**Mi doble formación como investigadora y  neuropsicóloga clínica me permite integrar equipos interdisciplinarios con interés en avances científicos aplicados.**

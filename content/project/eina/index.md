@@ -10,10 +10,9 @@ subtitle: Grupo de investigación de la Escuela de Humanidades de la Universidad
 tags:
 title: Equipo de Investigación en Neuropsicología Aplicada | UNSAM
 ---
-
 ## Presentación
 
-Este equipo de trabajo se enfoca en el estudio de diversos **Trastornos del neurodesarrollo (TND) en personas adultas**. Estudiamos las particularidades de los procesos diagnósticos de adultos no diagnosticados en la infancia, los cambios fenotípicos que atraviesan los pacientes con TND, las características de procesamiento cognitivo y su relación con la conducta, y el impacto funcional asociado.
+Este equipo de trabajo se enfoca en el estudio de diversos **Trastornos del neurodesarrollo (TND) en personas adultas**. Analizamos las particularidades de los procesos diagnósticos de adultos no diagnosticados en la infancia, los cambios fenotípicos que atraviesan los pacientes con TND, las características de procesamiento cognitivo y su relación con la conducta, y el impacto funcional asociado.
 
 Nuestras investigaciones se centran en pacientes adultos con:
 * Trastorno del Espectro Autista (TEA)
@@ -21,6 +20,8 @@ Nuestras investigaciones se centran en pacientes adultos con:
 * Dificultades Específicas del Aprendizaje (DEA)  
 
 Realizamos nuestro trabajo en conjunto con la [Unidad de Neuropsicología del HIGA Eva Perón](/project/unp/)
+
+En una segunda línea, indagamos sobre los **avances estadísticos aplicados a los estudios de caso único** y su utilización en la evaluación neuropsicológica clínica.  
 
 ## Líneas de investigación
 
@@ -30,7 +31,7 @@ Realizamos nuestro trabajo en conjunto con la [Unidad de Neuropsicología del HI
 
 **Directora**: Dra. Samanta Leiva.
 
-**Pasantes**: Carla Barbagallo (Lic. en Psicopedagogía), Giselle Insfran (Lic. en Psicología), Belén Reniero Paretto (estudiante avanzada de Psicología).
+**Pasantes**: Carla Barbagallo (Lic. en Psicopedagogía UNSAM), Giselle Insfran (Lic. en Psicología UBA), Belén Reniero Paretto (estudiante avanzada de Psicología UBA).
 
 **Colaboradoras**: Integrantes de la Unidad de Neuropsicología del HIGA Eva Perón de San Martín Dra. Andrea Micciulli, Lic. Laura Margulis, Lic. María Marta Sanguinetti.
 
